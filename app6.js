@@ -15,23 +15,27 @@ function countingValleys(steps, path) {
     const arrayPath = Array.from(path)
     //convert all Us to +1 and all Ds to -1
     const numArray = convertToNum(arrayPath)
-    console.log(numArray)
+    // console.log(numArray)
     //loop over the new array and anytime I hit a U, 
     //check if the sum of the numbers is 0
     //if it is 0 increment my count by 1
     let count = 0
+    let indexSplice = 0
     let i = 0
     while (i<numArray.length){
         //check if element is 1
         if (numArray[i] === 1){
             //create a new array that contains all elements up to this element
-            const helpNumArray = numArray.slice(0, i+1)
+            const helpNumArray = numArray.slice(indexSplice, i+1)
             //get the sum of all elements in this new array
             let sumHelpNumArray = helpNumArray.reduce(
                 ( previousValue, currentValue ) => previousValue + currentValue,
                 0
             )
-            if (sumHelpNumArray === 0) count ++
+            if (sumHelpNumArray === 0) {
+                count ++
+                indexSplice = i
+            }
             //if sum = 0 and current element is 1, increment count by 1
         }
         i++
