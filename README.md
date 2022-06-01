@@ -11,4 +11,6 @@ Day 4 ()=> https://www.hackerrank.com/challenges/staircase/problem
 Day 5 ()=> https://www.hackerrank.com/challenges/plus-minus/problem
 Day 6 ()=> https://www.hackerrank.com/challenges/counting-valleys/problem
 This day 6 challemge was weird. I wrote a very complicated process that was solving the challenge but it wasn't nearly properly optimized. So I had to brainstorm with @cokejnr and we came up with an algorithm that would allow us loop over the string just once. Unlike when I was looping over the string multiple times. Beautiful tbh.
+
 Day 7 ()=> https://www.hackerrank.com/challenges/mini-max-sum/problem
+Day 8 ()=> https://www.hackerrank.com/challenges/birthday-cake-candles/problem
