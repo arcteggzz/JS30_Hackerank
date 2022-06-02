@@ -14,3 +14,5 @@ This day 6 challemge was weird. I wrote a very complicated process that was solv
 
 Day 7 ()=> https://www.hackerrank.com/challenges/mini-max-sum/problem
 Day 8 ()=> https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+Day 9 ()=> https://www.hackerrank.com/challenges/time-conversion/problem
+This problem involved using sooo many ifs and else statements.
