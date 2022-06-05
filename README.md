@@ -22,3 +22,4 @@ Day 10 ()=> https://www.hackerrank.com/challenges/grading/problem
 
 # Medium Level Challenges
 Day 11 ()=> https://www.hackerrank.com/challenges/extra-long-factorials/problem
+Day 12 ()=> https://www.hackerrank.com/challenges/magic-square-forming/problem
