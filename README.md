@@ -22,4 +22,7 @@ Day 10 ()=> https://www.hackerrank.com/challenges/grading/problem
 
 # Medium Level Challenges
 Day 11 ()=> https://www.hackerrank.com/challenges/extra-long-factorials/problem
+Day 11 is giving me bigint variable issues. will have to come back for it
 Day 12 ()=> https://www.hackerrank.com/challenges/magic-square-forming/problem
+Day 12 has not been solved till now due to lack of understanding.
+Day 13 ()=> https://www.hackerrank.com/challenges/encryption/problem
