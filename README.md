@@ -5,24 +5,25 @@ Starting from 25th May, I took a problem from the Hackerank and tried to impleme
 Thanks.
 
 # Easy Level Challenges
-Day 1 ()=> https://www.hackerrank.com/challenges/simple-array-sum/problem
-Day 2 ()=> https://www.hackerrank.com/challenges/compare-the-triplets/problem
-Day 3 ()=> https://www.hackerrank.com/challenges/diagonal-difference/problem
-Day 4 ()=> https://www.hackerrank.com/challenges/staircase/problem
-Day 5 ()=> https://www.hackerrank.com/challenges/plus-minus/problem
-Day 6 ()=> https://www.hackerrank.com/challenges/counting-valleys/problem
+Day 1 (✅)=> https://www.hackerrank.com/challenges/simple-array-sum/problem 
+Day 2 (✅)=> https://www.hackerrank.com/challenges/compare-the-triplets/problem
+Day 3 (✅)=> https://www.hackerrank.com/challenges/diagonal-difference/problem
+Day 4 (✅)=> https://www.hackerrank.com/challenges/staircase/problem
+Day 5 (✅)=> https://www.hackerrank.com/challenges/plus-minus/problem
+Day 6 (✅)=> https://www.hackerrank.com/challenges/counting-valleys/problem
 This day 6 challemge was weird. I wrote a very complicated process that was solving the challenge but it wasn't nearly properly optimized. So I had to brainstorm with @cokejnr and we came up with an algorithm that would allow us loop over the string just once. Unlike when I was looping over the string multiple times. Beautiful tbh.
 
-Day 7 ()=> https://www.hackerrank.com/challenges/mini-max-sum/problem
-Day 8 ()=> https://www.hackerrank.com/challenges/birthday-cake-candles/problem
-Day 9 ()=> https://www.hackerrank.com/challenges/time-conversion/problem
+Day 7 (✅)=> https://www.hackerrank.com/challenges/mini-max-sum/problem
+Day 8 (✅)=> https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+Day 9 (✅)=> https://www.hackerrank.com/challenges/time-conversion/problem
 This problem involved using sooo many ifs and else statements.
 
-Day 10 ()=> https://www.hackerrank.com/challenges/grading/problem
+Day 10 (✅)=> https://www.hackerrank.com/challenges/grading/problem
 
 # Medium Level Challenges
-Day 11 ()=> https://www.hackerrank.com/challenges/extra-long-factorials/problem
+Day 11 (❌)=> https://www.hackerrank.com/challenges/extra-long-factorials/problem
 Day 11 is giving me bigint variable issues. will have to come back for it
-Day 12 ()=> https://www.hackerrank.com/challenges/magic-square-forming/problem
+Day 12 (❌)=> https://www.hackerrank.com/challenges/magic-square-forming/problem
 Day 12 has not been solved till now due to lack of understanding.
-Day 13 ()=> https://www.hackerrank.com/challenges/encryption/problem
+Day 13 (✅)=> https://www.hackerrank.com/challenges/encryption/problem
+Day 14 ()=> https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem
