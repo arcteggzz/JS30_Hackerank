@@ -28,4 +28,5 @@ Day 12 has not been solved till now due to lack of understanding.
 Day 13 (✅)=> https://www.hackerrank.com/challenges/encryption/problem
 Day 14 (❌)=> https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem
 Day 15 (❌)=> https://www.hackerrank.com/challenges/queens-attack-2/problem
-Day 16 ()=> https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true
+Day 16 (✅,❌)=> https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true
+Day 17 ()=> https://www.hackerrank.com/challenges/bigger-is-greater/problem
