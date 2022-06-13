@@ -28,10 +28,12 @@ Day 12 has not been solved till now due to lack of understanding.
 Day 13 (✅)=> https://www.hackerrank.com/challenges/encryption/problem
 Day 14 (❌)=> https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem
 Day 15 (❌)=> https://www.hackerrank.com/challenges/queens-attack-2/problem
+Almost done with this challenge. Almost. I need to figure out how to count in the second diagonal. I have some of the files saved in my office folder. Not sure how to get them here.
 Day 16 (✅,❌)=> https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
 Day 17 (❌)=> https://www.hackerrank.com/challenges/bigger-is-greater/problem
 Day 18 (❌)=> https://www.hackerrank.com/challenges/non-divisible-subset/problem
 Day 19 (✅)=> https://www.hackerrank.com/challenges/the-grid-search/problem
+What a day of hardwork. This problem pushed me to the limits. sweet to finally solve it. Hints? limit your search range, Do you really need to search the entire grid?
 Day 20 ()=> https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem?isFullScreen=true
 
 # Advanced Level Challenges
