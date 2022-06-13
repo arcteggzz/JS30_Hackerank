@@ -30,9 +30,9 @@ Day 14 (❌)=> https://www.hackerrank.com/challenges/organizing-containers-of-ba
 Day 15 (❌)=> https://www.hackerrank.com/challenges/queens-attack-2/problem
 Day 16 (✅,❌)=> https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
 Day 17 (❌)=> https://www.hackerrank.com/challenges/bigger-is-greater/problem
-Day 18 ()=>
-Day 19 ()=>
-Day 20 ()=>
+Day 18 (❌)=> https://www.hackerrank.com/challenges/non-divisible-subset/problem
+Day 19 (✅)=> https://www.hackerrank.com/challenges/the-grid-search/problem
+Day 20 ()=> https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem?isFullScreen=true
 
 # Advanced Level Challenges
 Day 21 ()=>
