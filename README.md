@@ -34,12 +34,12 @@ Day 17 (❌)=> https://www.hackerrank.com/challenges/bigger-is-greater/problem
 Day 18 (❌)=> https://www.hackerrank.com/challenges/non-divisible-subset/problem
 Day 19 (✅)=> https://www.hackerrank.com/challenges/the-grid-search/problem
 What a day of hardwork. This problem pushed me to the limits. sweet to finally solve it. Hints? limit your search range, Do you really need to search the entire grid?
-Day 20 ()=> https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem?isFullScreen=true
+Day 20 (✅,❌)=> https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem?isFullScreen=true
 
 # Advanced Level Challenges
-Day 21 ()=>
-Day 22 ()=>
-Day 23 ()=>
+Day 21 (❌)=> https://www.hackerrank.com/challenges/matrix-rotation-algo/problem
+Day 22 (❌)=> https://www.hackerrank.com/challenges/determining-dna-health/problem
+Day 23 (❌)=> https://www.hackerrank.com/challenges/morgan-and-a-string/problem
 Day 24 ()=>
 Day 25 ()=>
 Day 26 ()=>
