@@ -40,10 +40,19 @@ Day 20 (✅,❌)=> https://www.hackerrank.com/challenges/fraudulent-activity-not
 Day 21 (❌)=> https://www.hackerrank.com/challenges/matrix-rotation-algo/problem
 Day 22 (❌)=> https://www.hackerrank.com/challenges/determining-dna-health/problem
 Day 23 (❌)=> https://www.hackerrank.com/challenges/morgan-and-a-string/problem
-Day 24 ()=>
-Day 25 ()=>
-Day 26 ()=>
-Day 27 ()=>
-Day 28 ()=>
-Day 29 ()=>
-Day 30 ()=>
+Day 24 (❌)=> https://www.hackerrank.com/challenges/string-function-calculation/problem
+Day 25 (❌)=> https://www.hackerrank.com/challenges/super-functional-strings/problem
+Day 26 (❌)=> https://www.hackerrank.com/challenges/string-similarity/problem
+Day 27 (❌)=> https://www.hackerrank.com/challenges/ashton-and-string/problem
+Day 28 (❌)=> https://www.hackerrank.com/challenges/cards-permutation/problem
+Day 29 (❌)=> https://www.hackerrank.com/challenges/gridland-provinces/problem
+Day 30 (❌)=> https://www.hackerrank.com/challenges/build-a-string/problem
+
+These Advanced challlenges are absolutely killing. Impossible in my head. I'm gonna be back.
+Signed:- 17-06-2022
+I WILL BE BACK!!!
+
+Hint to Future Tega(lol)
+I think you need to understand data structures in detail. Your current understanging is way too limited to tackle those Advanced Challenges rn.
+You also need to approach problem solving concepts from the same angle. However, you need to increase your understanding and breakdown of problems. Right now, you have a limited understadning of problems which automatically hampers your chances of solving these problems.
+I expect the upgraded version of yourself when you get back to attempting these problems.
