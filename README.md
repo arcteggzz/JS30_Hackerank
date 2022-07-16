@@ -48,11 +48,14 @@ Day 28 (❌)=> https://www.hackerrank.com/challenges/cards-permutation/problem
 Day 29 (❌)=> https://www.hackerrank.com/challenges/gridland-provinces/problem
 Day 30 (❌)=> https://www.hackerrank.com/challenges/build-a-string/problem
 
-These Advanced challlenges are absolutely killing. Impossible in my head. I'm gonna be back.
+# BONUS problems
+Day 31 (✅)=> Write a function that takes a string as a parameter and returns the longest word of the string. If there are multiple strings, return the strin with the highest number of vowels. Do this in the most efficient way. 
+
+Those Advanced challlenges are absolutely killing. Impossible in my head. I'm gonna be back.
 Signed:- 17-06-2022
 I WILL BE BACK!!!
 
 Hint to Future Tega(lol)
-I think you need to understand data structures in detail. Your current understanging is way too limited to tackle those Advanced Challenges rn.
+I think you need to understand data structures in detail. Your current understanding is way too limited to tackle those Advanced Challenges rn.
 You also need to approach problem solving concepts from the same angle. However, you need to increase your understanding and breakdown of problems. Right now, you have a limited understadning of problems which automatically hampers your chances of solving these problems.
-I expect the upgraded version of yourself when you get back to attempting these problems.
+I expect an upgraded version of yourself when you get back to attempting these problems.
