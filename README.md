@@ -5,7 +5,8 @@ Starting from 25th May, I took a problem from the Hackerank and tried to impleme
 Thanks.
 
 # Easy Level Challenges
-Day 1 (✅)=> https://www.hackerrank.com/challenges/simple-array-sum/problem 
+
+Day 1 (✅)=> https://www.hackerrank.com/challenges/simple-array-sum/problem
 Day 2 (✅)=> https://www.hackerrank.com/challenges/compare-the-triplets/problem
 Day 3 (✅)=> https://www.hackerrank.com/challenges/diagonal-difference/problem
 Day 4 (✅)=> https://www.hackerrank.com/challenges/staircase/problem
@@ -21,6 +22,7 @@ This problem involved using sooo many ifs and else statements.
 Day 10 (✅)=> https://www.hackerrank.com/challenges/grading/problem
 
 # Medium Level Challenges
+
 Day 11 (❌)=> https://www.hackerrank.com/challenges/extra-long-factorials/problem
 Day 11 is giving me bigint variable issues. will have to come back for it
 Day 12 (❌)=> https://www.hackerrank.com/challenges/magic-square-forming/problem
@@ -37,6 +39,7 @@ What a day of hardwork. This problem pushed me to the limits. sweet to finally s
 Day 20 (✅,❌)=> https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem?isFullScreen=true
 
 # Advanced Level Challenges
+
 Day 21 (❌)=> https://www.hackerrank.com/challenges/matrix-rotation-algo/problem
 Day 22 (❌)=> https://www.hackerrank.com/challenges/determining-dna-health/problem
 Day 23 (❌)=> https://www.hackerrank.com/challenges/morgan-and-a-string/problem
@@ -49,7 +52,14 @@ Day 29 (❌)=> https://www.hackerrank.com/challenges/gridland-provinces/problem
 Day 30 (❌)=> https://www.hackerrank.com/challenges/build-a-string/problem
 
 # BONUS problems
-Day 31 (✅)=> Write a function that takes a string as a parameter and returns the longest word of the string. If there are multiple strings, return the strin with the highest number of vowels. Do this in the most efficient way. 
+
+Day 31 (✅)=> Write a function that takes a string as a parameter and returns the longest word of the string. If there are multiple strings, return the strin with the highest number of vowels. Do this in the most efficient way.
+
+Day X32 (✅)=> Write a function that takes a string as a parameter and returns the longest word of the string. However, special characrters like $ % ^ do not count as characters for the length of the string.
+
+Day 33 (✅)=> You're supposed to return the second highest and second lowest numbers in an array of numbers.if there are 2 numbers this use case is special.
+
+Day 34 (✅)=> They'll give you a string, then they'll tell you to encode it using this rules. Every letter should change to the next letter in the alphabet (a should become b, k should become l). THen after that, every new vowel should become capital letter.
 
 Those Advanced challlenges are absolutely killing. Impossible in my head. I'm gonna be back.
 Signed:- 17-06-2022
